@@ -1,6 +1,8 @@
 # pipeline-library
 Jenkins shared library for use with pipeline-as-code. You can use (parts of) this library in you `Jenkinsfile`.
 
+
+ [pipeline-examples](https://github.com/jenkinsci/pipeline-examples)
 How to use
 ----------
 * Fork this repo.
